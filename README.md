@@ -3,14 +3,14 @@
 Juego linear FPS en primera persona en el que hay que derrotar a todos los enemigos para conseguir salvar el mundo.
 ## Index
 
-- [Cómo jugar](https://gitlab.com/Tomas-Gayo/pec2-firstpersonshootergame#c%C3%B3mo-jugar)
+- [Cómo jugar](https://github.com/Tomas-Gayo/save-the-world/blob/main/README.md#c%C3%B3mo-jugar)
 - [Demo](https://gitlab.com/Tomas-Gayo/pec2-firstpersonshootergame#demo)
 - [Librerías](https://gitlab.com/Tomas-Gayo/pec2-firstpersonshootergame#librer%C3%ADas)
 - [Atribuciones](https://gitlab.com/Tomas-Gayo/pec2-firstpersonshootergame#atribuciones)
 
 ## Cómo jugar
 
-Este shooter se controla con teclado y ratón. Para el movimiento del personaje podemos utilizar las teclas de dirección **W (adelante), S (atrás), D (giro derecha) y A (giro izquierda)**, también, se puede saltar con el espacio o correr con la tecla "Shift". Para cambiar de arma podemos presionar las teclas 1 y 2 del teclado. Por otro lado, para poder disparar utilizaremos el raton con el click izquierda.
+Para el movimiento del personaje podemos utilizar las teclas de dirección **WASD**, también, se puede saltar con el espacio o correr con la tecla "Shift". Para cambiar de arma se puede presionar las teclas 1 y 2 del teclado. Por otro lado, para poder disparar utilizaremos el raton con el click izquierdo.
 
 ## Demo
 
