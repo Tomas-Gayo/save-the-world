@@ -4,7 +4,7 @@ Juego linear FPS en primera persona en el que hay que derrotar a todos los enemi
 ## Index
 
 - [Cómo jugar](https://github.com/Tomas-Gayo/save-the-world/blob/main/README.md#c%C3%B3mo-jugar)
-- [Demo](https://gitlab.com/Tomas-Gayo/pec2-firstpersonshootergame#demo)
+- [Demo](https://github.com/Tomas-Gayo/save-the-world/blob/main/README.md#demo)
 - [Librerías](https://gitlab.com/Tomas-Gayo/pec2-firstpersonshootergame#librer%C3%ADas)
 - [Atribuciones](https://gitlab.com/Tomas-Gayo/pec2-firstpersonshootergame#atribuciones)
 
